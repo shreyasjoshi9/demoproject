@@ -1,0 +1,6 @@
+Keyword	LocatorName	UiMapFile_Address	Sequence
+TypeText	username	/resources/testcase1/combination_files/login_details.csv	1
+TypeText	password	/resources/testcase1/combination_files/login_details.csv	2
+ClickElement	login_btn	/resources/testcase1/combination_files/login_details.csv	3
+SelectDropdown	country_dropdown	/resources/testcase1/combination_files/user_forms.csv	4
+ClickElement	verification_checkbox	/resources/testcase1/combination_files/user_forms.csv	5
